@@ -1,0 +1,32 @@
+.container{
+    max-width: 900px;
+
+}
+
+.navbar{
+    background-color: #91C8E4 !important;
+}
+
+#imagen{
+    width: 900px;
+    height: 300px;
+}
+
+#foto{
+    width: 600px;
+    height: 300px;
+    border-radius: 5%;
+    margin-left: 100px;
+}
+
+#car{
+    width: 400px;
+    height: 400px;
+    border-radius: 5%;
+}
+
+#argu{
+    width: 300px;
+    height: 500px;
+
+}
